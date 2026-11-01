@@ -1,0 +1,9 @@
+fastapi>=0.110,<1
+uvicorn[standard]>=0.29
+pydantic>=2.6
+pandas>=2.2
+numpy>=1.26
+scikit-learn==1.9.1
+lightgbm>=4.3
+joblib>=1.4
+statsmodels>=0.14

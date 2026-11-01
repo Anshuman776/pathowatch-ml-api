@@ -1,0 +1,29 @@
+{
+  "version": "v20261029-172620",
+  "algorithm": "LightGBM",
+  "feature_set": "adaptive",
+  "created": "2026-10-29T17:26:20",
+  "years": [
+    2004,
+    2017
+  ],
+  "n_rows": 232527,
+  "temporal": {
+    "auroc": 0.713901355850626,
+    "auprc": 0.6073606587870222,
+    "brier": 0.19817755381350083,
+    "ece": 0.010123137152193325,
+    "f1": 0.5816938876515714,
+    "recall": 0.758419036095987,
+    "specificity": 0.520910125142207,
+    "threshold": 0.3016394011322905,
+    "seconds": 8.2
+  },
+  "test_years": [
+    2015,
+    2017
+  ],
+  "sha256": "9b81adf77b41f46c3964042213c22821d40c1cd00a8103f3e3442f4ed3cf55e1",
+  "file": "model.joblib",
+  "size_bytes": 1265374
+}
